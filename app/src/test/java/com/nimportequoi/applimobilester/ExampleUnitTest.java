@@ -1,4 +1,4 @@
-package com.nimportequoi.applimobiletheoescobar;
+package com.nimportequoi.applimobilester;
 
 import org.junit.Test;
 

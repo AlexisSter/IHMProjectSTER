@@ -9,8 +9,6 @@ import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.Button;
 
-import com.nimportequoi.applimobiletheoescobar.R;
-
 public class MainActivity extends AppCompatActivity {
 
     RecyclerView recyclerView;

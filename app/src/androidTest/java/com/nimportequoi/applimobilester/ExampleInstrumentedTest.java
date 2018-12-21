@@ -1,4 +1,4 @@
-package com.nimportequoi.applimobiletheoescobar;
+package com.nimportequoi.applimobilester;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.nimportequoi.applimobiletheoescobar", appContext.getPackageName());
+        assertEquals("com.nimportequoi.applimobilester", appContext.getPackageName());
     }
 }
